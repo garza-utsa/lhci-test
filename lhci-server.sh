@@ -6,3 +6,4 @@ lhci autorun --config=./provost-lighthouserc.json
 lhci autorun --config=./gs-lighthouserc.json
 lhci autorun --config=./global-lighthouserc.json
 lhci autorun --config=./odl-lighthouserc.json
+lhci autorun --config=./dreamers-lighthouserc.json
