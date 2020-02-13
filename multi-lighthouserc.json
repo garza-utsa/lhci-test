@@ -1,0 +1,23 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "https://provost.utsa.edu/",
+        "https://graduateschool.utsa.edu/",
+        "https://international.utsa.edu/",
+        "https://www.utsa.edu/dreamers",
+        "https://odl.utsa.edu/"
+      ],
+      "start-server-command": "npm start",
+      "numberOfRuns": 1
+    },
+    "assert": {
+      "preset": "lighthouse:no-pwa"
+    },
+    "upload": {
+      "target": "lhci",
+      "token": "df877937-5804-4954-beab-ecf2b80ba1d3",
+      "serverBaseUrl": "http://localhost:9001"
+    }
+  }
+}
