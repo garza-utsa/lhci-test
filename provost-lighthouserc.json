@@ -12,7 +12,7 @@
     },
     "upload": {
       "target": "lhci",
-	    "token": "9d5a535c-45aa-4b9d-95c5-8b8dfa8a24d6",
+      "token": "63f1eab1-a494-4924-9109-bc5c4592a78a",
       "serverBaseUrl": "http://localhost:9001"
     }
   }

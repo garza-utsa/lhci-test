@@ -1,0 +1,19 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "https://graduateschool.utsa.edu/"
+      ],
+      "start-server-command": "npm start",
+      "numberOfRuns": 1
+    },
+    "assert": {
+      "preset": "lighthouse:recommended"
+    },
+    "upload": {
+      "target": "lhci",
+      "token": "231aa6ce-fb70-428f-b6b1-a58775345356",
+      "serverBaseUrl": "http://localhost:9001"
+    }
+  }
+}
