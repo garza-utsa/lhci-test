@@ -1,0 +1,19 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "https://provost.utsa.edu:443/"
+      ],
+      "start-server-command": "npm start",
+      "numberOfRuns": 1
+    },
+    "assert": {
+      "preset": "lighthouse:recommended"
+    },
+    "upload": {
+      "target": "lhci",
+	    "token": "9d5a535c-45aa-4b9d-95c5-8b8dfa8a24d6",
+      "serverBaseUrl": "http://localhost:9001"
+    }
+  }
+}
