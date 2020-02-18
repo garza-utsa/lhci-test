@@ -1,0 +1,19 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "https://future.utsa.edu/"
+      ],
+      "start-server-command": "npm start",
+      "numberOfRuns": 1
+    },
+    "assert": {
+      "preset": "lighthouse:no-pwa"
+    },
+    "upload": {
+      "target": "lhci",
+      "token": "2dcf0a6c-82f0-4350-9111-9fb9f41d2ac5",
+      "serverBaseUrl": "http://localhost:9001"
+    }
+  }
+}

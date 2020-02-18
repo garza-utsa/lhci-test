@@ -8,3 +8,4 @@ lhci autorun --config=./global-lighthouserc.json
 lhci autorun --config=./odl-lighthouserc.json
 lhci autorun --config=./dreamers-lighthouserc.json
 lhci autorun --config=./multi-lighthouserc.json
+lhci autorun --config=./future-lighthouserc.json
