@@ -9,11 +9,7 @@
         "https://www.utsa.edu/dreamers",
         "https://odl.utsa.edu/"
       ],
-      "start-server-command": "npm start",
       "numberOfRuns": 1
-    },
-    "assert": {
-      "preset": "lighthouse:no-pwa"
     },
     "upload": {
       "target": "lhci",
