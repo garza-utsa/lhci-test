@@ -1,0 +1,15 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "http://mxcenter.utsa.edu/"
+      ],
+      "numberOfRuns": 1
+    },
+    "upload": {
+      "target": "lhci",
+      "token": "7fcecd4d-1752-42c7-ae3f-2fefda3348d1",
+      "serverBaseUrl": "http://localhost:9001"
+    }
+  }
+}

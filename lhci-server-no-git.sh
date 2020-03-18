@@ -9,3 +9,4 @@
 /usr/local/bin/lhci autorun --config=./multi-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./odl-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./provost-lighthouserc.json
+/usr/local/bin/lhci autorun --config=./mxcenter-lighthouserc.json
