@@ -2,7 +2,7 @@
   "ci": {
     "collect": {
       "url": [
-        "https://international.utsa.edu/"
+        "https://global.utsa.edu/"
       ],
       "numberOfRuns": 1
     },

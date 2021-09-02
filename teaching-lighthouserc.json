@@ -2,13 +2,14 @@
   "ci": {
     "collect": {
       "url": [
-        "https://www.utsa.edu/dreamers/"
+        "https://teaching.utsa.edu/"
       ],
       "numberOfRuns": 1
     },
+
     "upload": {
       "target": "lhci",
-      "token": "2066b06a-3840-4013-b5cd-19f0e59fc9b6",
+      "token": "da0c5e24-1282-46f3-9234-bf4b94bc2692",
       "serverBaseUrl": "http://localhost:9001"
     }
   }

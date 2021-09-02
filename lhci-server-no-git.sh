@@ -11,3 +11,4 @@
 /usr/local/bin/lhci autorun --config=./provost-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./mxcenter-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./my-lighthouserc.json
+/usr/local/bin/lhci autorun --config=./teaching-lighthouserc.json

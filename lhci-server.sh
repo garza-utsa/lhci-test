@@ -11,3 +11,4 @@
 /usr/local/bin/lhci autorun --config=/Users/rjq475/Development-vpaa/docker-lhci/lhci-test/my-lighthouserc.json
 /usr/local/bin/lhci autorun --config=/Users/rjq475/Development-vpaa/docker-lhci/lhci-test/provost-lighthouserc.json
 /usr/local/bin/lhci autorun --config=/Users/rjq475/Development-vpaa/docker-lhci/lhci-test/mxcenter-lighthouserc.json
+/usr/local/bin/lhci autorun --config=/Users/rjq475/Development-vpaa/docker-lhci/lhci-test/teaching-lighthouserc.json
