@@ -1,0 +1,15 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "http://localhost:3000/components/preview/college-home-page"
+      ],
+      "numberOfRuns": 1
+    },
+    "upload": {
+      "target": "lhci",
+      "token": "a9318cf4-98f4-4746-b7c3-b195f674fdde",
+      "serverBaseUrl": "http://localhost:9001"
+    }
+  }
+}

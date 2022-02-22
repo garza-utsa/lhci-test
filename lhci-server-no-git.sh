@@ -2,6 +2,7 @@
 
 ##git commit --allow-empty -m "tick"
 ##git push
+/usr/local/bin/lhci autorun --config=./dls-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./dreamers-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./future-lighthouserc.json
 /usr/local/bin/lhci autorun --config=./global-lighthouserc.json
