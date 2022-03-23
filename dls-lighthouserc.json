@@ -2,9 +2,13 @@
   "ci": {
     "collect": {
       "url": [
-        "http://localhost:3000/components/preview/college-home-page"
+        "https://utsa-asc.github.io/college-dls/components/preview/college-home-page.html"
       ],
-      "numberOfRuns": 1
+      "numberOfRuns": 1,
+      "settings": {
+        "disableStorageReset": true,
+        "chromeFlags": "--ignore-certificate-errors --no-sandbox"
+      }
     },
     "upload": {
       "target": "lhci",
